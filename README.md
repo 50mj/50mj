@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new CS skills - languages and more
 - 🌱 I’m currently learning Python and C++
 - 💞️ Right now, am just absorbing information and trying to learn
-- 📫 Contact via GitHub only for now...
+- 📫 bscsuscom@gmail.com
 
 <!---
 50mj/50mj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
